@@ -1,3 +1,10 @@
+<h3> CRUD LARAVEL Complete </h3>
+<p> Disini saya menggunakan laravel 5.8 dengan membuat crud sederhana dan beberapa komponen selain crud yaitu: </p>
+    <p> 1- Flash message </p 
+    <p> 2- Form Validate </p>
+    <p> 3- Merubah Text pesan error menjadi bahasa indonesia </p>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -70,3 +77,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
